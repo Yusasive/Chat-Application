@@ -41,7 +41,7 @@
 
 .ce-danger-button {
     background-color: white !important;
-    border-radius: 22px !important;
+    border-radius: 25px !important;
 }
 
 .ce-settings {
@@ -92,7 +92,7 @@
 .chat-subtitle {
     color: #7554a0;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 13px;
     padding-top: 4px;
 }
 
@@ -111,7 +111,7 @@
 .message-avatar {
     width: 44px;
     height: 44px;
-    border-radius: 22px;
+    border-radius: 23px;
     color: white;
     text-align: center;
     background-repeat: no-repeat;
